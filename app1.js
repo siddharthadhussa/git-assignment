@@ -1,1 +1,2 @@
-console.log("doing question 20")
+console.log("question 20 done")
+console.log("doing question 21")
